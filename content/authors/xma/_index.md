@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Physics
     institution: University of Toronto
-    year: 208
+    year: 2008
   - course: BSc in Physics
     institution: Peking University
     year: 2003
