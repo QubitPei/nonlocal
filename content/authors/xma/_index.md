@@ -22,8 +22,7 @@ bio: My research interests include quantum fundation and quantum communications.
 
 interests:
 - Quantum Cryptography
-- Quantum Key Distribution
-- Quantum Random Number Generation
+- Quantum Foundation
 - Quantum Optics
 
 education:
